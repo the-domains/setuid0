@@ -16,6 +16,6 @@ analytics:
 author:
   name: Mike Horwath
   email: 0@setuid.io
-  url: www.setuid.io
+  url: 'https://www.setuid.io/'
 name: setuid(0);
 title: where root becomes reality
