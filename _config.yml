@@ -12,3 +12,5 @@ color:
     - '#5C6B73'
     - '#253237'
 name: setuid(0);
+analytics:
+  google: UA-20895326-9
