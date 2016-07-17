@@ -1,0 +1,14 @@
+layout_spectrum: 0.17849815404042602
+typography_spectrum: 0.482506662607193
+color:
+  brandStrength: 0.491096165496856
+  lightness: 0.4650216782465577
+  saturation: 0.29420309280976653
+  rhythmicContrast: 0.36377878091298044
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: setuid(0);
