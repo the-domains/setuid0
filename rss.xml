@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[where root becomes reality]]></title>
+        <description><![CDATA[where root becomes reality]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jul 2016 17:10:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Expect Mr. Robot's take on the FBI to be very real thanks to a former employee]]></title>
+            <description><![CDATA[<article><h1>Expect Mr. Robot's take on the FBI to be very real thanks to a former employee</h1><p>Warning: This piece contains minor spoilers for this week's episode of Mr. Robot (S2E1) Near the intermission of Mr. Robot's two-part season two premiere, fsociety hacker Darlene boots her desktop computer and opens up something called the " Social-Engineering Toolkit."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd57845c7476e1fca7340d85e9c1c1f5/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2FScreen-Shot-2016-07-15-at-3.46.33-PM-640x246.png"></article>]]></description>
+            <link>http://arstechnica.com/the-multiverse/2016/07/expect-mr-robots-take-on-the-fbi-to-be-very-real-thanks-to-a-former-employee/</link>
+            <guid isPermaLink="false">7109349e-ef86-465c-8799-9831a398b41d</guid>
+            <pubDate>Sun, 17 Jul 2016 17:10:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
