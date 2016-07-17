@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[where root becomes reality]]></title>
         <description><![CDATA[where root becomes reality]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/setuid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 17:10:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Jul 2016 17:13:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/setuid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stay connected abroad with high speed data from Project Fi]]></title>
+            <description><![CDATA[<article><h1>Stay connected abroad with high speed data from Project Fi</h1><p>When you're traveling abroad, your phone is an essential tool - for finding a great restaurant, posting pics of your trip online, or translating a sign. But the data we have access to when traveling abroad often isn't fast or affordable enough to let us do the tasks that matter most.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/622600774f36f491e65b618e06bd45fa/noop.png?input=http%3A%2F%2F1.bp.blogspot.com%2F-qkFF0CoT9_Q%2FVt-ny0dIGqI%2FAAAAAAAAIaM%2Fs4FwhmcOCpg%2Fs1600-r%2Fandroid-logo.png"></article>]]></description>
+            <link>https://android.googleblog.com/2016/07/stay-connected-abroad-with-high-speed.html</link>
+            <guid isPermaLink="false">e2b05e32-ccd3-43a8-a521-088db1ed7e79</guid>
+            <pubDate>Sun, 17 Jul 2016 17:13:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Expect Mr. Robot's take on the FBI to be very real thanks to a former employee]]></title>
             <description><![CDATA[<article><h1>Expect Mr. Robot's take on the FBI to be very real thanks to a former employee</h1><p>Warning: This piece contains minor spoilers for this week's episode of Mr. Robot (S2E1) Near the intermission of Mr. Robot's two-part season two premiere, fsociety hacker Darlene boots her desktop computer and opens up something called the " Social-Engineering Toolkit."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd57845c7476e1fca7340d85e9c1c1f5/noop.png?input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F07%2FScreen-Shot-2016-07-15-at-3.46.33-PM-640x246.png"></article>]]></description>
