@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-18T13:07:17.682Z'
+datePublished: '2016-07-18T13:08:24.401Z'
 sourcePath: _posts/2016-07-18-the-rho-agenda-3-book-series.md
 isBasedOnUrl: 'https://www.amazon.com/dp/B00TP1WI14/?tag=mikehorwath-20'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-18T13:07:02.760Z'
+dateModified: '2016-07-18T13:08:19.036Z'
 title: The Rho Agenda (3 Book Series)
 app_links: []
 publisher:
